@@ -1,4 +1,4 @@
-# React Clean Boilerplate
+# NStore with React-Redux
 
 # Getting Started with Create React App
 
