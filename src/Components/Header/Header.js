@@ -1,11 +1,11 @@
 import React from 'react';
+import MenuAppBar from './MenuAppBar';
 
 const Header = () => {
     return (
         <>
-            <div align="center">
-                <h1><u>NStore</u></h1>
-            </div>
+            <MenuAppBar />
+            <br />
         </>
     );
 }
